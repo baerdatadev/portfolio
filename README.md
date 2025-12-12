@@ -1,2 +1,4 @@
-# portfolio
-Top level repo with details about me and my projects
+# Steven's Data Engineering Portfolio
+
+## Work Samples
+- Project 1: python-skillsRefresh
